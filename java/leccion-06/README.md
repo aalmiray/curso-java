@@ -10,5 +10,5 @@
 ```
 $ javac -d classes com/acme/*.java
 $ cd classes
-$ java com.acme.Main
+$ java com.acme.Main "hello"
 ```
